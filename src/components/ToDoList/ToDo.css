@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.input {
+    width: 70%;
+    margin-bottom: 30px;
+}
+
+.addButton {
+    height: 55px;
+    margin-bottom: 30px;
+}
+
+.list {
+    width: 80% !important;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.text {
+    width: 70%;
+}
+
+.listButtons {
+    margin-left: 10px !important;
+}
